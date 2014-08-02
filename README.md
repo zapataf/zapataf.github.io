@@ -1,4 +1,4 @@
 zapataf.github.io
 =================
 
-My website
+This is my website. Created with bootstrap and hosted at GitHub
