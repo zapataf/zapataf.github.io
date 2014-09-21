@@ -1,30 +1,142 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>::FELIPE ZAPATA::</title>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+  <style type="text/css">>
+    body { padding-top: 25px; }
+    main { margin-top: 25px; }
+  </style>
+  <title>:: FELIPE ZAPATA ::</title>
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="shortcut icon" href="images/favicons/favicon.ico">
+  <meta name="author" content="Felipe Zapata" />
+  <title>:: FELIPE ZAPATA ::</title>
+</head>
+<body>
+  <header class="navbar navbar-default navbar-fixed-top" role="banner">
+    <div class="container">
+        <nav class="collapse navbar-collapse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+<li><a href="#bio">Bio</a></li>
+<li><a href="#research">Research</a></li>
+<li><a href="#publications">Publications</a></li>
+</ul>
+      </div>
+    </nav>
+        </div>
+  </header>
+  <main role="main">
+    <div class="jumbotron">
+    <div class="container">
+      <h2>Felipe Zapata</h2>
+            <b>Postdoctoral Research Associate</b>, <a href="http://www.dunnlab.org/">Dunn Lab</a><br><a href="http://www.brown.edu/academics/ecology-and-evolutionary-biology/">Ecology and Evolutionary Biology</a>, Brown University
+          </div>
+  </div>
+    <div class="container">
+  <h3 id="bio"><a href="#bio">Bio</a></h3>
+  <p>I am an evolutionary biologist broadly interested in trying to explain the extraordinary richness of biological diversity (i.e., genetic, taxonomic, and phenotypic diversity), particularly plant diversity.  I approach this challenge by taking an integrative approach, where I combine field work, molecular phylogenetics, morphometrics, and quantitative analyses to discover and describe biodiversity, reconstruct the evolutionary history of genes, species and clades, and to evaluate hypotheses on the role of different factors in the process of diversification.</p>
+  <h5 <p><strong>Research Interests</strong></p></h5>
+  <p>evolutionary biology, plant systematics, phylogenetics, plant biology, computational biology.</p>
+  <h5 <p><strong>Previous Positions &amp; Education</strong></p></h5>
+  <table class="table">
+  <tbody>
+  <tr class="odd">
+  <td align="left">2010—2012</td>
+  <td align="left"><strong>Postdoctoral Research Associate</strong></td>
+  <td align="left"><a href="http://ib.berkeley.edu">Department of Integrative Biology</a>, University of California, Berkeley</td>
+  </tr>
+  <tr class="even">
+  <td align="left">2010</td>
+  <td align="left"><strong>Ph.D. Ecology, Evolution &amp; Systematics </strong></td>
+  <td align="left"><a href="http://www.umsl.edu/~biology">Department of Biology</a>, University of Missouri, St. Louis</td>
+  </tr>
+  <tr class="odd">
+  <td align="left">2000</td>
+  <td align="left"><strong>B.S. Biology</strong></td>
+ <td align="left"><a href="http://cienciasbiologicas.uniandes.edu.co">Departamento de Ciencias Biológicas</a>, Universidad de Los Andes, Bogotá, Colombia</td>
+  </tr>
+  </tbody>
+  </table>
+  
+  <h3 id="research"><a href="#research">Research</a></h3>
+  <hr />
+  <h5>
+  Diversity &amp; Diversification
+  </h5>
+  
+  <p>Understanding how plant diversity originates and evolves is a central question in ecology and evolution.  I am particularly interested in evaluating how geography and ecology interact to <em>allow</em> and <em>cause</em> organisms to evolve and diversify. I am studying the role of these factors in the diversification of plant groups from the highland (<em>Escallonia</em>) and lowland (<em>Protium</em>) forests of South America.</p>
+  <strong>Relevant publications:</strong> <a href="http://www.amjbot.org/content/100/3/526.full" target="_blank">AJB</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/boj.12091/abstract" target="_blank">BJLS</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2699.2011.02645.x/fulll" target="_blank">J. Biog.</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12414/abstract" target="_blank">Evolution</a>
+  
+  <hr />
+  <h5>
+  Species Delimitation
+  </h5>
+  
+  <p>Delimiting species confidently is not just a classificatory issue, it is the manifestation of the core problem in evolutionary biology that has puzzled naturalists for generations: how do species form? how do species multiply? Morphological discontinuities is by far the most commonly used criterion to diagnose species limits.  However, there is relatively little work on quantitative methods to infer species boundaries using morphological data. I am working on statistical approaches to infer species boundaries using phenotypic and geographic information derived from natural history collections.</p>
+  <strong>Relevant publications:</strong> <a href="http://sysbio.oxfordjournals.org/content/61/2/179.short" target="_blank">Sys. Bio.</a>
+  
+  <hr />
+  <h5>
+  Phylogenomics
+  </h5>
+  
+  <p>Advances in sequencing technologies are rapidly transforming comparative biology by enabling researchers access to genome-level data from any organism. However, using these data effectively still poses key challenges (e.g., ortholog detection, assembly confidence), which hinders the wider adoption and further improvement of methods that use this type of data.  To address some of these challenges, I have been collaborating in the development of a modular workflow for <em>de novo</em> transcriptome assembly and phylogenomic analysis. This workflow not only automatizes multiple processes, but more importantly it facilitates full reproducibility of highly complex analyses. I am also collaborating in the development of tools that quantify uncertainty in sequence assembly.</p>
+  <strong>Relevant publications:</strong> <a href="http://www.biomedcentral.com/1471-2105/14/330" target="_blank">BMC Bioinf.</a>, <a href="http://bioinformatics.oxfordjournals.org/content/29/23/2959.short" target="_blank">Bioinformatics</a>, <a href="http://arxiv.org/abs/1308.1388" target="_blank">arXiv</a>
+  
+  <hr />
+  <h5>
+  Functional Diversity
+  </h5>
+  
+  <p>Organisms display an array of functional traits ranging from physiology to morphology that broadly match environmental conditions suggesting that such traits likely have fitness consequences. I am particularly interested in studying the genetic basis of such traits to gain insight into the molecular mechanisms underlying eco-phenotypic variation, adaptive evolution, and functional species differences.  I have studied the genetic basis of plant secondary metabolites that mediate biotic and abiotic interactions in tropical rain forests trees of the genus <em>Protium</em>.</p>
+  <strong>Relevant publications:</strong> <a href="http://www.sciencedirect.com/science/article/pii/S1055790313001826" target="_blank">MPE</a>
+  
+  <hr />
+  <h3 id="publications"><a href="#publications">Publications</a></h3>
+  <p>See my <a href="http://scholar.google.com/citations?user=dwQ7qIcAAAAJ&hl=en&oi=ao" target="_blank">Google scholar profile.</a> If you do not have access to PDFs, please send me an email [felipe_zapata[AT]brown[DOT]edu].</p>
+  <hr />
 
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </div>
+  </main>
+  <hr>
+  <footer>
+  <div class="container">
+            <p class="author">Last updated: March 2014</p>
+        <p class="credit">Styled with <a href="http://twitter.github.com/bootstrap/">Bootstrap</a> and <a href="http://bootswatch.com">Bootswatch</a>, and powered by <a href="http://github.com" target="_blank">GH</a>.
+  
+  </div>
+  </footer>
+   <script type="text/javascript">
+var sc_project=9540520; 
+var sc_invisible=1; 
+var sc_security="f04afb57"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="free hit
+counter" href="http://statcounter.com/free-hit-counter/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/9540520/0/f04afb57/1/"
+alt="free hit counter"></a></div></noscript>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <h1>404</h1>
-    <h1>...updating...</h1>
-    <h1>Please, come back again soon!</h1>
-    <h1>Felipe, September 2014</h1>
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-  </body>
+   
+</body>
 </html>
+
