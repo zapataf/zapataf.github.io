@@ -1,4 +1,4 @@
 zapataf.github.io
 =================
 
-This is my website. Created with bootstrap and hosted at GitHub
+This is the website for the Zapata Lab. It was created with bootstrap and hosted at GitHub
