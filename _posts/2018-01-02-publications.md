@@ -35,7 +35,7 @@ image: humboldt.jpg
 * Fine PVA, **Zapata F**, Daly DC, Misiewicz TM, Mesones I, Cooper HF, Barbosa CE. (2013) The importance of environmental heterogeneity and spatial distance in generating phylogeographic structure in edaphic specialist and generalist tree species of *Protium* (Burseraceae) across the Amazon basin. Journal of Biogeography 40:646-661 [doi](http://dx.doi.org/10.1111/j.1365-2699.2011.02645.x)
 
 #### 2012
-* **Zapata F**, Jiménez I. (2012) Species delimitation: Inferring gaps in morphology across geography. Systematic Biology 61:179-194 [doi](http://dx.doi.org/10.1093/sysbio/syr084}) [repo](https://bitbucket.org/fzapata/sysbio2012gapsgeography)
+* **Zapata F**, Jiménez I. (2012) Species delimitation: Inferring gaps in morphology across geography. Systematic Biology 61:179-194 [doi](http://dx.doi.org/10.1093/sysbio/syr084) [repo](https://bitbucket.org/fzapata/sysbio2012gapsgeography)
 ***(2013 Publisher’s Award for Excellence in Systematics Research)***
 
 #### 2008
