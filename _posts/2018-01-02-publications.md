@@ -4,7 +4,7 @@ title: "Publications"
 #author: "Zapata Lab"
 categories: pages
 tags: [documentation]
-image: humboldt.jpg
+image: paramo.jpg
 ---
 
 #### 2018
