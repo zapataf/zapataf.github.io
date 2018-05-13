@@ -9,7 +9,7 @@ image: paramo.jpg
 
 #### 2018
 * Munro C, Siebert S, **Zapata F**, Howison M, Damian-Serrano A, Church SH, Goetz FE, Pugh PR, Haddock SHD, Dunn CW (2018) Improved phylogenetic resolution within Siphonophora (Cnidaria) with implications for trait evolution [doi](https://www.biorxiv.org/content/early/2018/01/20/251116) [repo](https://github.com/caseywdunn/siphonophore_phylogeny_2017)
-* Huang A, Howison M, **Zapata F**, Lawrence CE, Dunn CW (2018) Revising transcriptome assemblies with phylogenetic information in Agalma1.0. [doi](https://www.biorxiv.org/content/early/2017/10/12/202416) [repo](https://github.com/caseywdunn/ms_treeinform)
+* Huang A, Howison M, **Zapata F**, Lawrence CE, Dunn CW (2018) Revising transcriptome assemblies with phylogenetic information. [doi](https://www.biorxiv.org/content/early/2017/10/12/202416) [repo](https://github.com/caseywdunn/ms_treeinform)
 * Dunn CW, **Zapata F** Munro C, Siebert S, Hejnol A. (2018) Pairwise comparisons are problematic when analyzing functional genomic data across species. Proceedings of the National Academy of Sciences, USA. 115(3):E409-E417 [doi](http://dx.doi.org/10.1073/pnas.1707515115) [repo](https://github.com/caseywdunn/comparative_expression_2017)
 * Cadena CD, **Zapata F**, Jiménez I. (2018) Issues and Perspectives in Species Delimitation using Phenotypic Data - Atlantean Evolution in Darwin's Finches. Systematic Biology. 67(2):181-194 [doi](https://academic.oup.com/sysbio/article/4102004/Issues-and-Perspectives-in-Species-Delimitation) [repo](https://github.com/zapataf/geospiza_morphology_2017)
 
