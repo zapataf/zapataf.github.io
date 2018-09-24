@@ -8,6 +8,7 @@ image: paramo.jpg
 ---
 
 #### 2018
+* **Zapata F**, Villarroel D. A new species of *Escallonia* (Escalloniaceae) from the inter-Andean tropical dry forests of Bolivia. *In review*
 * Munro C, Siebert S, **Zapata F**, Howison M, Damian-Serrano A, Church SH, Goetz FE, Pugh PR, Haddock SHD, Dunn CW (2018) Improved phylogenetic resolution within Siphonophora (Cnidaria) with implications for trait evolution. Molecular Phylogenetics and Evolution. 127:823-833. [doi](https://doi.org/10.1016/j.ympev.2018.06.030) [repo](https://github.com/caseywdunn/siphonophore_phylogeny_2017)
 * Huang A, Howison M, **Zapata F**, Lawrence CE, Dunn CW (2018) Revising transcriptome assemblies with phylogenetic information. [doi](https://www.biorxiv.org/content/early/2017/10/12/202416) [repo](https://github.com/caseywdunn/ms_treeinform)
 * Dunn CW, **Zapata F** Munro C, Siebert S, Hejnol A. (2018) Pairwise comparisons are problematic when analyzing functional genomic data across species. Proceedings of the National Academy of Sciences, USA. 115(3):E409-E417 [doi](http://dx.doi.org/10.1073/pnas.1707515115) [repo](https://github.com/caseywdunn/comparative_expression_2017)
