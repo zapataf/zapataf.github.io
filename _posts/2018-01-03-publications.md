@@ -8,7 +8,7 @@ image: paramo.jpg
 ---
 
 #### 2019
-* **Zapata F**, Villarroel D. A new species of *Escallonia* (Escalloniaceae) from the inter-Andean tropical dry forests of Bolivia. *In press* PeerJ [repo](https://github.com/zapataf/ms_eharrisii)
+* **Zapata F**, Villarroel D. A new species of *Escallonia* (Escalloniaceae) from the inter-Andean tropical dry forests of Bolivia. PeerJ 7:e6328 [doi](https://peerj.com/articles/6328/) [repo](https://github.com/zapataf/ms_eharrisii)
 
 #### 2018
 * Munro C, Siebert S, **Zapata F**, Howison M, Damian-Serrano A, Church SH, Goetz FE, Pugh PR, Haddock SHD, Dunn CW (2018) Improved phylogenetic resolution within Siphonophora (Cnidaria) with implications for trait evolution. Molecular Phylogenetics and Evolution. 127:823-833. [doi](https://doi.org/10.1016/j.ympev.2018.06.030) [repo](https://github.com/caseywdunn/siphonophore_phylogeny_2017)
